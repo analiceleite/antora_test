@@ -1,0 +1,3 @@
+* Component A
+  * xref:component-a::index.adoc[Index]
+  * xref:component-a::outra-pagina.adoc[Outra Página]
